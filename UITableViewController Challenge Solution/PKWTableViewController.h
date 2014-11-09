@@ -1,5 +1,5 @@
 //
-//  PKWViewController.h
+//  PKWTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by brianc on 2014/11/09.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PKWViewController : UIViewController
+@interface PKWTableViewController : UITableViewController
 
 @end
